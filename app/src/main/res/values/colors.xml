@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="hijau_header">#2EBB6E</color>
+    <color name="hijau_tombol">#3DDC84</color>
+    <color name="hijau_teks_gelap">#14532D</color>
+    <color name="garis_input">#D5DDE6</color>
+    <color name="garis_input_gelap">#334155</color>
+    <color name="latar_halaman">#F8FAFC</color>
+</resources>
